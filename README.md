@@ -1,16 +1,9 @@
 
 # Hi I'm Keso
 
-### 🤝 Social network:
-
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/kelsinbek-zarlykov-43273b257/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    </a>
-  </div>
-
----
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
 
 ### 💻 Instruments and tools:
 
