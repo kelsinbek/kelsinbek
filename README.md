@@ -15,7 +15,7 @@
   <img alt="kelsinbek's LinkdeIN" width="50px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 
-### 💻 Languages and Tools:
+<!-- ### 💻 Languages and Tools: -->
 
 <!-- <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
