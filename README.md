@@ -5,12 +5,15 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: center;">
   <!-- Здесь ваш блок "LeetCode Stats" -->
   <img src="https://leetcard.jacoblin.cool/keso77?theme=dark&font=Sarabun" alt="LeetCode Stats" />
 
-  <!-- Контейнер для аватарок внизу справа -->
-  <div style="display: flex; flex-direction: column; align-items: flex-end;">
+  <!-- Отступ между блоками -->
+  <div style="margin: 0 20px;"></div>
+
+  <!-- Контейнер для аватарок справа -->
+  <div>
     <!-- LinkedIn и Instagram аватарки -->
     <a href="https://www.linkedin.com/in/kelsinbek-zarlykov-43273b257">
       <img alt="kelsinbek's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
@@ -20,6 +23,8 @@
     </a>
   </div>
 </div>
+
+
 
 
 
