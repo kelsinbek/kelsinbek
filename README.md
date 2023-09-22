@@ -5,6 +5,9 @@
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
 </p>
 
+# LeetCode
+![LeetCode Stats](https://leetcard.jacoblin.cool/keso77?theme=dark&font=Sarabun)
+
 
 <p align="center">
 <br/>
