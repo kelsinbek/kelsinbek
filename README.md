@@ -1,9 +1,9 @@
 
 # Hi I'm Keso
 
-<p align="center">
+<!-- <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p>
+</p> -->
 
 <div style="display: flex; align-items: center;">
   <!-- Здесь ваш блок "LeetCode Stats" -->
